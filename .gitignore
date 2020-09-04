@@ -10,3 +10,10 @@ xcuserdata/
 *.xcscheme
 xcschememanagement.plist
 *.xcbkptlist
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
