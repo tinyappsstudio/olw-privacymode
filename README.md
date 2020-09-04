@@ -1,6 +1,6 @@
 # olw-privacymode
 
-Simple API to open web browsers in Private mode.
+Simple API for macOS to open web browsers in Private mode.
 
 <br />
 How to use:
