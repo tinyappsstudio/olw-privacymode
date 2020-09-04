@@ -13,8 +13,11 @@ x-olw-privatemode-**\<web-browser-bundleidentifier>**://**\<url>**
 As of current version are supported :
 
 Firefox : x-olw-privatemode-org.mozilla.firefox://\<url> 
+
 Chrome : x-olw-privatemode-com.google.Chrome://\<url> 
+
 Opera : x-olw-privatemode-com.operasoftware.Opera://\<url> 
+
 Chrome Canary : x-olw-privatemode-com.google.Chrome.canary://\<url>  
 
 
